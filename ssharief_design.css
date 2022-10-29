@@ -1,0 +1,17 @@
+body{
+    background-image: url(https://creativetacos.com/wp-content/uploads/2019/02/Lazeez-Watercolor-Textures-4K-UHD-Backgrounds6.jpg);
+    background-size:cover;
+    background-attachment: fixed;
+}
+
+h1,h3{
+    font-family:monospace;
+}
+h1{
+    text-align-last: center;
+    font-size: 120%;
+}
+
+#pid{
+    text-align-last: center;
+}
